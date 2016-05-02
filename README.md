@@ -1,0 +1,1 @@
+# install_guide_centos7
